@@ -54,4 +54,4 @@ npm run dev
 
 ## Author
 
-Reema
+Reema Sulaiman Almuzaini
