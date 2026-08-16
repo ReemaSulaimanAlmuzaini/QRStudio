@@ -43,12 +43,6 @@ Run the development server:
 
 npm run dev
 
-## Project Structure
-
-src/
-├── Components/
-├── App.jsx
-└── main.jsx
 
 ## Future Improvements
 
